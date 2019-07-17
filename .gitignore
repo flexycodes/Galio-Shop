@@ -17,13 +17,13 @@ tests/Selenium/errorShots/
 tests/Selenium/errorDumps/
 modules/seoimg/cache/
 
-/admin-dev*/autoupgrade/*
-/admin-dev*/backups/*
-/admin-dev*/import/*
+/ps-admin*/autoupgrade/*
+/ps-admin*/backups/*
+/ps-admin*/import/*
 
-/admin-dev*/import/*
-!/admin-dev*/import/.htaccess
-!/admin-dev*/import/index.php
+/ps-admin*/import/*
+!/ps-admin*/import/.htaccess
+!/ps-admin*/import/index.php
 
 themes/*/cache/*
 /images_comarch/*
